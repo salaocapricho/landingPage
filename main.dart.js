@@ -51705,7 +51705,7 @@ A.Ys.prototype={
 $0(){return A.JA("https://www.instagram.com/anderson.santos.dev/")},
 $S:0}
 A.Yt.prototype={
-$0(){A.JA("https://web.whatsapp.com/send?phone=5574999343485&text&app_absent=0")},
+$0(){A.JA("https://wa.me/5574999343485?text=Ol\xe1,%20gostaria%20de%20agendar%20um%20hor\xe1rio.")},
 $S:0}
 A.dm.prototype={
 P(a,b){var s=null
